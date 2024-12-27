@@ -1,3 +1,5 @@
+![temprl_business_pro](https://github.com/user-attachments/assets/9bc8d495-d98a-484b-a6d6-8b35617e0d4d)
+
 # Temprl Business ✨
 
 Welcome to **Temprl Business** 🤖💼 – Your trusted AI consultancy partner. We help businesses unlock their true potential through cutting-edge artificial intelligence solutions and strategic insights.We specialize in delivering innovative AI-driven solutions that redefine industries and drive measurable impact.
@@ -64,11 +66,6 @@ Let’s build something amazing together!
 Thank you for visiting our repository! We’re excited to collaborate and create value with AI. Feel free to explore, star ⭐, or fork this repo to support us.
 
 ---
-
-### 📊 Contributions
-We welcome contributions to make our resources even better. Please check our [CONTRIBUTING.md](#) for guidelines.
-
-Together, let’s shape the future with AI! 🌌
 
 
 <!---
