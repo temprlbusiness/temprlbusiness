@@ -1,4 +1,4 @@
-![temprl_business_pro](([https://business.temprl.pro/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo_with_pro.20f29042.png&w=384&q=75]))
+![temprl_business_pro](https://business.temprl.pro/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo_with_pro.20f29042.png&w=384&q=75)
 
 # Temprl Business ✨
 
