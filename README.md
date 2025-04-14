@@ -88,7 +88,7 @@ Empower your team to leverage 🤖 effectively with:
 
 Let’s build something amazing together! 
 
-- 🔧 [Explore Our Website](https://business.temprl.pro/)
+- 🔧 [Explore Our Website](https://temprl.pro/)
 - 📧 Email us: business.temprl@gmail.com
 - 🐦 Follow us on [Twitter](https://x.com/Temprl_Business)
 - 📚 [LinkedIn](www.linkedin.com/in/temprl-business-707310342)
